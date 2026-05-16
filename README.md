@@ -5,7 +5,7 @@ Generate Your Personalized Travel Itinerary with One Click!
 ## Achitechture
 <img width="1774" height="887" alt="ChatGPT Image May 16, 2026, 05_47_22 PM" src="https://github.com/user-attachments/assets/afc36bd9-b08b-4a0f-9e80-3fee46f5a8c5" />
 
-[Advantages]
+**Advantages**
 - Intention Recognition
 - Skill Scheme
 - Parallel Invocation
