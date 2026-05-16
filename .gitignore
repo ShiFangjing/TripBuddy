@@ -1,0 +1,23 @@
+# Python/runtime caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local IDE/OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Local environments
+.venv/
+venv/
+.env
+.env.*
+
+# Private local memory/state
+data/memory/
+
+# Milvus runtime lock files; keep the DB itself tracked
+data/rag_knowledge/*.lock
